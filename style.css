@@ -137,7 +137,7 @@
       background: #017143;
       top: 200px;
       left: 0;
-      clip-path: circle(450px at right 500px);
+      clip-path: circle(300px at right 300px);
       z-index: -1;
     }
 
