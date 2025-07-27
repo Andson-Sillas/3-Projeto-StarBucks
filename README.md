@@ -1,3 +1,9 @@
+<img src="https://github.com/Andson-Sillas/3-Projeto-StarBucks/blob/main/mockup-starbucks.png">
+<br>
+<a href="https://andson-sillas.github.io/3-Projeto-StarBucks/">Link do projeto<a>
+<br>
+<br>
+
 ☕ Starbucks Landing Page
 Este é um projeto front-end de uma landing page interativa inspirada na marca Starbucks, criado com foco em responsividade, estética e manipulação dinâmica com JavaScript puro.
 
